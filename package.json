@@ -1,0 +1,20 @@
+{
+  "name": "scroll-animation",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "ffmpeg-static": "^5.3.0",
+    "lenis": "^1.1.20",
+    "local": "^0.3.3",
+    "tunnel": "^0.0.6"
+  }
+}
