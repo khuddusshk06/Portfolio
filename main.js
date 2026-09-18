@@ -359,7 +359,7 @@ const projectData = {
   'container-sec-pipeline': {
     category: 'DevSecOps & Automation',
     title: 'Containerized Security Monitoring Pipeline with Auto-Remediation',
-    github: 'https://github.com/khuddusshk06',
+    github: 'https://github.com/khuddusshk06/containerized-security-monitoring-pipeline-auto-remediation',
     content: `
       <p>Designed and deployed a containerized security monitoring pipeline utilizing Docker and Docker Compose, integrating Node.js, MongoDB, and Python for automated threat detection.</p>
       <h4 class="modal-sec-heading">Key Features & Engineering Highlights:</h4>
@@ -376,7 +376,7 @@ const projectData = {
   'linux-perm-mgmt': {
     category: 'System Administration & Security',
     title: 'Linux-User-Permission-Management',
-    github: 'https://github.com/khuddusshk06',
+    github: 'https://github.com/khuddusshk06/Linux-User-Permission-Management',
     content: `
       <p>Implemented Role-Based Access Control (RBAC) and Identity & Access Management (IAM) concepts in Kali Linux, governing user permissions and file system security.</p>
       <h4 class="modal-sec-heading">Key Capabilities & Auditing:</h4>
